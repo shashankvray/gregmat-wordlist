@@ -11,4 +11,4 @@ Links to original resources:
 2. Prepscholar: https://www.prepscholar.com/gre/blog/gre-vocabulary-list-words/
 3. Powerscore Repeat Offenders: https://www.powerscore.com/gre/help/content/Repeat-Offenders-Vocabulary.pdf
 
-See [ https://shashankvray.github.io/gregmat-wordlist/](the Practise Site) to practice.
+See [ https://shashankvray.github.io/gregmat-wordlist/] (the Practise Site) to practice.
